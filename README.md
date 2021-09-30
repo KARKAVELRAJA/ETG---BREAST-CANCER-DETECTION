@@ -18,5 +18,5 @@
 - Data Collection
 - Data Preprocessing
 - Model Training
-- Model Evalution
+- Model Evaluation 
 
